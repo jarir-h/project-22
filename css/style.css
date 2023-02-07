@@ -1,0 +1,95 @@
+img{
+    max-width: 100%;
+}
+.bg-color{
+    background-color: #f9f9ff;
+}
+.hero-img img{
+    height: 400px;
+}
+
+/*     About Section     */
+
+.about-section img {
+    width: 400px;
+    height: auto;
+    border: 2px solid #d4d4d4;
+}
+
+/*   Score Section  */
+.score-section{
+    background-color: #0662eb;
+    padding: 50px;
+}
+.score-section h1{
+    color: #ffff;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.score-section p {
+    color: #cccccc;
+    padding-bottom: 20px;
+    margin: -20px;
+}
+
+/*    Service Section  */
+
+.service-section .service-box{
+    background-color: #ffffff;
+}
+.service-section .h4-tag {
+    background-color: #f3f3f3;
+    padding: 30px;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
+
+
+/*    protfolio-section   */
+
+.protfolio-section{
+    background-color: #ffffff;
+}
+.protfolio-section .img-card img {
+    width: 80px;
+    height: auto;
+    position: relative;
+    top: -50px;
+    left: -80px;
+}
+
+/*    Contact Section     */
+
+.contact-section{
+    background-color: #f5f7fe;
+    padding: 30px;
+}
+.contact-section .form-section{
+    background-color: #ffffff;
+    padding: 30px;
+}
+.form-section input{
+    border: 1px solid #dcdbdb;
+    border-radius: 5px;
+}
+.form-section .input-tag {
+    width: 288px;
+    height: auto;
+    border: 1px solid #dcdbdb;
+    border-radius: 5px;
+}
+.addres {
+    margin-top: 120px;
+}
+
+/*    Footer Section    */
+
+.footer{
+    text-align: center;
+    background-color: #00021a;
+    padding: 20px;
+    color: #ffffff;
+    font-size: 20px;
+}
